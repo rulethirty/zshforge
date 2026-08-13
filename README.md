@@ -7,4 +7,3 @@ Just execute the command!
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/rulethirty/zshforge/main/install.sh)"
 ```
-```
