@@ -4,4 +4,4 @@
 
 Just execute the command!
 
-`sh -c "$(curl -fsSL https://raw.githubusercontent.com/rulethirty/zshforge/main/install.sh)`
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/rulethirty/zshforge/main/install.sh)"`
