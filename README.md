@@ -16,3 +16,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/rulethirty/zshforge/main/i
 * **Linux** — supports `pacman`, `dnf`, `apt`, and `apk`
 
 The installer automatically detects your platform and package manager and handles the required dependencies and shell configuration.
+
+*Powered by AI.*
