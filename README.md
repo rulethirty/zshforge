@@ -1,13 +1,18 @@
-# Quick ZSH and oh-my-zsh setup tool
+# Quick Zsh and Oh My Zsh Setup Tool
 
-## Installation (Just execute the command!)
+*Installs and configures Zsh, Oh My Zsh, zsh-autosuggestions, and zsh-syntax-highlighting, along with additional quality-of-life configuration for a ready-to-use shell environment.*
+
+## Installation
+
+Just execute the command:
 
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/rulethirty/zshforge/main/install.sh)"
 ```
 
+## Supported Platforms
 
-## Supported platforms:
+* **macOS**
+* **Linux** — supports `pacman`, `dnf`, `apt`, and `apk`
 
-- MacOS
-- Linux (supported only pacman, dnf, apt, apk pacjage managers)
+The installer automatically detects your platform and package manager and handles the required dependencies and shell configuration.
